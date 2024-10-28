@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\snmp",
+    "\\snmp\\myapp",
+    "\\snmp\\myapp\\migrations",
+    "\\snmp\\myapp\\static",
+    "\\snmp\\snmp"
+  ],
+  "SelectedNode": "\\snmp\\myapp\\static",
+  "PreviewInSolutionExplorer": false
+}
